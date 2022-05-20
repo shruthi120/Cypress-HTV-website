@@ -1,0 +1,20 @@
+{
+  "name": "test-htv",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^8.5.0",
+    "cypress-localstorage-commands": "^1.6.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://phuser@phabricator.ventunotech.com:36886/diffusion/102/ui-web-test-automation.git"
+  },
+  "description": ""
+}
